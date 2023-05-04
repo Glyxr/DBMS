@@ -1,0 +1,9 @@
+student1	name	char	sex	char
+student2	name	char	sex	char
+student34	name	char	sex	char	num	int	
+student3	name	char	
+student5	name	char	
+student90	name	char	sex	char	age	date	
+test1	name	char(10)	sex	char(2)	age	date	
+test2	name	char(10)	sex	char(2)	
+test3	name	char(10)	sex	char(2)	
